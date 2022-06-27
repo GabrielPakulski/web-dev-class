@@ -4,3 +4,6 @@
 [submodule "robofriends-redux"]
 	path = robofriends-redux
 	url = https://github.com/aneagoie/robofriends-redux
+[submodule "lecture-03/keiko-corp"]
+	path = lecture-03/keiko-corp
+	url = https://github.com/aneagoie/keiko-corp
