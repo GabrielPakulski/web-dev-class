@@ -1,0 +1,6 @@
+[submodule "robofriends"]
+	path = robofriends
+	url = https://github.com/aneagoie/robofriends
+[submodule "robofriends-redux"]
+	path = robofriends-redux
+	url = https://github.com/aneagoie/robofriends-redux
